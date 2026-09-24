@@ -175,7 +175,7 @@ This project analyzed 500 supermarket transactions using Python-based Explorator
 
 ## Author
 
-**Name:** *(Enter your name here)*  
-**Course:** BCA / B.Sc Data Analytics  
-**Institution:** *(Enter your institution name here)*  
+**Name:** Sumeet Kumar Mishra
+**Course:** MCA (Artificial Intelligence and Machine Learning)  
+**Institution:** Lovely Professional University 
 **Year:** 2026
